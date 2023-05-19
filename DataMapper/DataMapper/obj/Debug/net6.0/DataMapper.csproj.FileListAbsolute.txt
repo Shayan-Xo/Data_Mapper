@@ -1,0 +1,15 @@
+C:\Users\maha_\source\repos\DataMapper\DataMapper\bin\Debug\net6.0\DataMapper.exe
+C:\Users\maha_\source\repos\DataMapper\DataMapper\bin\Debug\net6.0\DataMapper.deps.json
+C:\Users\maha_\source\repos\DataMapper\DataMapper\bin\Debug\net6.0\DataMapper.runtimeconfig.json
+C:\Users\maha_\source\repos\DataMapper\DataMapper\bin\Debug\net6.0\DataMapper.dll
+C:\Users\maha_\source\repos\DataMapper\DataMapper\bin\Debug\net6.0\DataMapper.pdb
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.csproj.AssemblyReference.cache
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.AssemblyInfoInputs.cache
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.AssemblyInfo.cs
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.csproj.CoreCompileInputs.cache
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.dll
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\refint\DataMapper.dll
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.pdb
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\DataMapper.genruntimeconfig.cache
+C:\Users\maha_\source\repos\DataMapper\DataMapper\obj\Debug\net6.0\ref\DataMapper.dll

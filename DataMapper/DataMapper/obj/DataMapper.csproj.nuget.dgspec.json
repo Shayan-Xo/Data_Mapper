@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maha_\\source\\repos\\DataMapper\\DataMapper\\DataMapper.csproj": {}
+    "D:\\Data_Mapper\\DataMapper\\DataMapper\\DataMapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maha_\\source\\repos\\DataMapper\\DataMapper\\DataMapper.csproj": {
+    "D:\\Data_Mapper\\DataMapper\\DataMapper\\DataMapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maha_\\source\\repos\\DataMapper\\DataMapper\\DataMapper.csproj",
+        "projectUniqueName": "D:\\Data_Mapper\\DataMapper\\DataMapper\\DataMapper.csproj",
         "projectName": "DataMapper",
-        "projectPath": "C:\\Users\\maha_\\source\\repos\\DataMapper\\DataMapper\\DataMapper.csproj",
-        "packagesPath": "C:\\Users\\maha_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maha_\\source\\repos\\DataMapper\\DataMapper\\obj\\",
+        "projectPath": "D:\\Data_Mapper\\DataMapper\\DataMapper\\DataMapper.csproj",
+        "packagesPath": "C:\\Users\\Shahriyaar\\.nuget\\packages\\",
+        "outputPath": "D:\\Data_Mapper\\DataMapper\\DataMapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maha_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Shahriyaar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,14 +39,23 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.33, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
